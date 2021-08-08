@@ -1,0 +1,11 @@
+{
+    "devices": "combinations.xlsx",
+    "-cable_log": "cables.xlsx",
+    "-cable_log__sheets": ["now"],
+
+    "coordinates": "coordinates.json",
+    "-device__min_width": 300,
+    "grid": [2, 2],
+    "proxy_level": 200,
+    "-canvas_height": 1067
+}
