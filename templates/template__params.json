@@ -1,0 +1,19 @@
+{
+    "--devices": "devices.xlsx",
+    "--devices__sheets": ["MTX", "ENGINE1", "PP"],
+    "--devices__min_width": 0,
+    "--devices__coordinates": "scheme_proxy.100.svg.coordinates.json",
+    "--cables": "cables.xlsx",
+    "--connections": [
+        "connections.xlsx",
+        "connections.update20221030.csv",
+        "connections.update20221031.csv"
+    ],
+    "--connections__sheets": ["now"],
+    "--grid_width": 2,
+    "--grid_height": 5,
+    "--canvas_height": 0,
+    "--paths__display": "all",
+    "--paths__between_devices": 12,
+    "_": "do not delete"
+}
