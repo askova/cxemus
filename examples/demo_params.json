@@ -1,0 +1,18 @@
+{
+    "devices": "demo_devices.xlsx",
+    "devices__sheets": ["MTX", "ENGINE", "PATCH PANEL", "WORKSTATION"],
+    "devices__min_width": 300,
+    "devices__coordinates": "demo_coordinates.json",
+    "cables": "demo_cables.csv",
+    "connections": [
+        "demo_connections.xlsx",
+        "demo_connections_2.csv"
+    ],
+    "connections__sheets": ["now"],
+    "grid_width": 3,
+    "grid_height": 2,
+    "canvas_height": 450,
+    "paths__display": "all",
+    "paths__between_devices": 20,
+    "_": "do not delete"
+}
