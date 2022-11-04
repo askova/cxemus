@@ -5,7 +5,7 @@ function customLogic() {
 
     nameTimer = "\t\t.arrow-shafts styling"
     console.time(nameTimer);
-    let pattern = '^(WB|P/P|SOCKETS)'
+    let pattern = '^(WB|P/P|SOCKETS|PATCH PANEL)'
     arrowshaftsStyling(pattern);
     console.timeEnd(nameTimer);
 }
@@ -13,7 +13,7 @@ function customLogic() {
 function arrowshaftsStyling(pattern) {
     // sum dash array
     let defs = document.querySelector('defs');
-    let element = document.createElementNS(xmlns, 'g');  // "xmlns" from basic.js
+    let element = document.createElementNS(XMLNS, 'g');  // "xmlns" from basic.js
         element.classList.add('arrow_split')
     defs.appendChild(element);
     let dasharray = getComputedStyle(element).strokeDasharray 
