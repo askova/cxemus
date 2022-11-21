@@ -1,533 +1,187 @@
 {
+    "MTX": {
+        "column": 1,
+        "point": 3
+    },
     "PATCH PANEL": {
         "column": 0,
-        "point": 42,
+        "point": 49,
         "childs": {
             "2.RIGHT": {
                 "column": 0,
-                "point": 44,
-                "childs": {
-                    "PATCH PANEL [FRONT] # : 7.RIGHT": {
-                        "column": 0,
-                        "point": 49
-                    },
-                    "PATCH PANEL [FRONT] # 20": {
-                        "column": 0,
-                        "point": 50
-                    },
-                    "PATCH PANEL [FRONT] # 4": {
-                        "column": 0,
-                        "point": 48
-                    },
-                    "PATCH PANEL [FRONT] # 3": {
-                        "column": 0,
-                        "point": 47
-                    },
-                    "PATCH PANEL [FRONT] # 2": {
-                        "column": 0,
-                        "point": 46
-                    },
-                    "PATCH PANEL [FRONT] # 1": {
-                        "column": 0,
-                        "point": 45
-                    }
-                }
+                "point": 51
             },
             "2.LEFT": {
                 "column": 0,
-                "point": 44,
-                "childs": {
-                    "PATCH PANEL [REAR] # : 7.LEFT": {
-                        "column": 0,
-                        "point": 49
-                    },
-                    "PATCH PANEL [REAR] # 20": {
-                        "column": 0,
-                        "point": 50
-                    },
-                    "PATCH PANEL [REAR] # 4": {
-                        "column": 0,
-                        "point": 48
-                    },
-                    "PATCH PANEL [REAR] # 3": {
-                        "column": 0,
-                        "point": 47
-                    },
-                    "PATCH PANEL [REAR] # 2": {
-                        "column": 0,
-                        "point": 46
-                    },
-                    "PATCH PANEL [REAR] # 1": {
-                        "column": 0,
-                        "point": 45
-                    }
-                }
-            }
-        }
-    },
-    "MTX": {
-        "column": 0,
-        "point": 0,
-        "childs": {
-            "23.RIGHT": {
-                "column": 0,
-                "point": 23,
-                "childs": {
-                    "MTX [POWER SUPPLY] # 2": {
-                        "column": 0,
-                        "point": 25
-                    },
-                    "MTX [POWER SUPPLY] # 1": {
-                        "column": 0,
-                        "point": 24
-                    }
-                }
-            },
-            "23.LEFT": {
-                "column": 0,
-                "point": 23,
-                "childs": {
-                    "MTX [ETHERNET] # CON2": {
-                        "column": 0,
-                        "point": 25
-                    },
-                    "MTX [ETHERNET] # CON1": {
-                        "column": 0,
-                        "point": 24
-                    }
-                }
-            },
-            "19.RIGHT": {
-                "column": 0,
-                "point": 19,
-                "childs": {
-                    "MTX [VIDEO REF] OUT 3": {
-                        "column": 0,
-                        "point": 22
-                    },
-                    "MTX [VIDEO REF] OUT 2": {
-                        "column": 0,
-                        "point": 21
-                    },
-                    "MTX [VIDEO REF] OUT 1": {
-                        "column": 0,
-                        "point": 20
-                    }
-                }
-            },
-            "19.LEFT": {
-                "column": 0,
-                "point": 19,
-                "childs": {
-                    "MTX [VIDEO REF] IN 3": {
-                        "column": 0,
-                        "point": 22
-                    },
-                    "MTX [VIDEO REF] IN 2": {
-                        "column": 0,
-                        "point": 21
-                    },
-                    "MTX [VIDEO REF] IN 1": {
-                        "column": 0,
-                        "point": 20
-                    }
-                }
-            },
-            "2.RIGHT": {
-                "column": 0,
-                "point": 2,
-                "childs": {
-                    "MTX OUT 16": {
-                        "column": 0,
-                        "point": 18
-                    },
-                    "MTX OUT 15": {
-                        "column": 0,
-                        "point": 17
-                    },
-                    "MTX OUT 14": {
-                        "column": 0,
-                        "point": 16
-                    },
-                    "MTX OUT 13": {
-                        "column": 0,
-                        "point": 15
-                    },
-                    "MTX OUT 12": {
-                        "column": 0,
-                        "point": 14
-                    },
-                    "MTX OUT 11": {
-                        "column": 0,
-                        "point": 13
-                    },
-                    "MTX OUT 10": {
-                        "column": 0,
-                        "point": 12
-                    },
-                    "MTX OUT 9": {
-                        "column": 0,
-                        "point": 11
-                    },
-                    "MTX OUT 8": {
-                        "column": 0,
-                        "point": 10
-                    },
-                    "MTX OUT 7": {
-                        "column": 0,
-                        "point": 9
-                    },
-                    "MTX OUT 6": {
-                        "column": 0,
-                        "point": 8
-                    },
-                    "MTX OUT 5": {
-                        "column": 0,
-                        "point": 7
-                    },
-                    "MTX OUT 4": {
-                        "column": 0,
-                        "point": 6
-                    },
-                    "MTX OUT 1": {
-                        "column": 0,
-                        "point": 3
-                    },
-                    "MTX OUT 3": {
-                        "column": 0,
-                        "point": 5
-                    },
-                    "MTX OUT 2": {
-                        "column": 0,
-                        "point": 4
-                    }
-                }
-            },
-            "2.LEFT": {
-                "column": 0,
-                "point": 2,
-                "childs": {
-                    "MTX IN 16": {
-                        "column": 0,
-                        "point": 18
-                    },
-                    "MTX IN 15": {
-                        "column": 0,
-                        "point": 17
-                    },
-                    "MTX IN 14": {
-                        "column": 0,
-                        "point": 16
-                    },
-                    "MTX IN 13": {
-                        "column": 0,
-                        "point": 15
-                    },
-                    "MTX IN 12": {
-                        "column": 0,
-                        "point": 14
-                    },
-                    "MTX IN 11": {
-                        "column": 0,
-                        "point": 13
-                    },
-                    "MTX IN 8": {
-                        "column": 0,
-                        "point": 10
-                    },
-                    "MTX IN 7": {
-                        "column": 0,
-                        "point": 9
-                    },
-                    "MTX IN 6": {
-                        "column": 0,
-                        "point": 8
-                    },
-                    "MTX IN 5": {
-                        "column": 0,
-                        "point": 7
-                    },
-                    "MTX IN 4": {
-                        "column": 0,
-                        "point": 6
-                    },
-                    "MTX IN 3": {
-                        "column": 0,
-                        "point": 5
-                    },
-                    "MTX IN 2": {
-                        "column": 0,
-                        "point": 4
-                    },
-                    "MTX IN 1": {
-                        "column": 0,
-                        "point": 3
-                    },
-                    "MTX IN 10": {
-                        "column": 0,
-                        "point": 12
-                    },
-                    "MTX IN 9": {
-                        "column": 0,
-                        "point": 11
-                    }
-                }
-            }
-        }
-    },
-    "ENGINE": {
-        "column": 1,
-        "point": 0,
-        "childs": {
-            "19.RIGHT": {
-                "column": 1,
-                "point": 19,
-                "childs": {
-                    "ENGINE [AUXILIARY  ETHERNET] # ACT/LINK B": {
-                        "column": 1,
-                        "point": 20
-                    }
-                }
-            },
-            "19.LEFT": {
-                "column": 1,
-                "point": 19,
-                "childs": {
-                    "ENGINE [AUXILIARY  ETHERNET] # ACT/LINK A": {
-                        "column": 1,
-                        "point": 20
-                    }
-                }
-            },
-            "11.RIGHT": {
-                "column": 1,
-                "point": 11,
-                "childs": {
-                    "ENGINE [AJA] OUT : 18.RIGHT": {
-                        "column": 1,
-                        "point": 18
-                    },
-                    "ENGINE [AJA] OUT * 13.RIGHT": {
-                        "column": 1,
-                        "point": 13
-                    },
-                    "ENGINE [AJA] OUT * 12.RIGHT": {
-                        "column": 1,
-                        "point": 12
-                    },
-                    "ENGINE [AJA] OUT SDI4": {
-                        "column": 1,
-                        "point": 15
-                    },
-                    "ENGINE [AJA] OUT SDI3": {
-                        "column": 1,
-                        "point": 14
-                    },
-                    "ENGINE [AJA] OUT REF": {
-                        "column": 1,
-                        "point": 17
-                    },
-                    "ENGINE [AJA] OUT LTC": {
-                        "column": 1,
-                        "point": 16
-                    }
-                }
-            },
-            "11.LEFT": {
-                "column": 1,
-                "point": 11,
-                "childs": {
-                    "ENGINE [AJA] IN : 18.LEFT": {
-                        "column": 1,
-                        "point": 18
-                    },
-                    "ENGINE [AJA] IN * 15.LEFT": {
-                        "column": 1,
-                        "point": 15
-                    },
-                    "ENGINE [AJA] IN * 14.LEFT": {
-                        "column": 1,
-                        "point": 14
-                    },
-                    "ENGINE [AJA] IN SDI2": {
-                        "column": 1,
-                        "point": 13
-                    },
-                    "ENGINE [AJA] IN SDI1": {
-                        "column": 1,
-                        "point": 12
-                    },
-                    "ENGINE [AJA] IN REF": {
-                        "column": 1,
-                        "point": 17
-                    },
-                    "ENGINE [AJA] IN LTC": {
-                        "column": 1,
-                        "point": 16
-                    }
-                }
-            },
-            "7.RIGHT": {
-                "column": 1,
-                "point": 7,
-                "childs": {
-                    "ENGINE [NVIDIA DP] OUT 3": {
-                        "column": 1,
-                        "point": 10
-                    },
-                    "ENGINE [NVIDIA DP] OUT 2": {
-                        "column": 1,
-                        "point": 9
-                    },
-                    "ENGINE [NVIDIA DP] OUT 1": {
-                        "column": 1,
-                        "point": 8
-                    }
-                }
-            },
-            "7.LEFT": {
-                "column": 1,
-                "point": 7
-            },
-            "2.RIGHT": {
-                "column": 1,
-                "point": 2,
-                "childs": {
-                    "ENGINE # POWER SUPPLY": {
-                        "column": 1,
-                        "point": 6
-                    }
-                }
-            },
-            "2.LEFT": {
-                "column": 1,
-                "point": 2,
-                "childs": {
-                    "ENGINE IN : 6.LEFT": {
-                        "column": 1,
-                        "point": 6
-                    },
-                    "ENGINE # USB 2": {
-                        "column": 1,
-                        "point": 5
-                    },
-                    "ENGINE # USB 1": {
-                        "column": 1,
-                        "point": 4
-                    },
-                    "ENGINE # ETHERNET": {
-                        "column": 1,
-                        "point": 3
-                    }
-                }
+                "point": 51
             }
         }
     },
     "WORKSTATION": {
         "column": 0,
-        "point": 27,
+        "point": 3,
         "childs": {
             "9.RIGHT": {
                 "column": 0,
-                "point": 36,
-                "childs": {
-                    "WORKSTATION # NETWORK ATM": {
-                        "column": 0,
-                        "point": 40
-                    },
-                    "WORKSTATION # NETWORK": {
-                        "column": 0,
-                        "point": 39
-                    },
-                    "WORKSTATION # POWER": {
-                        "column": 0,
-                        "point": 38
-                    },
-                    "WORKSTATION OUT AUDIO": {
-                        "column": 0,
-                        "point": 37
-                    }
-                }
+                "point": 12
             },
             "9.LEFT": {
                 "column": 0,
-                "point": 36,
+                "point": 12
+            },
+            "2.RIGHT": {
+                "column": 0,
+                "point": 5
+            },
+            "2.LEFT": {
+                "column": 0,
+                "point": 5
+            }
+        }
+    },
+    "ENGINE": {
+        "column": 0,
+        "point": 21,
+        "childs": {
+            "19.RIGHT": {
+                "column": 0,
+                "point": 40,
                 "childs": {
-                    "WORKSTATION IN : 13.LEFT": {
+                    "ENGINE [AUXILIARY  ETHERNET] # ACT/LINK B": {
                         "column": 0,
-                        "point": 40
-                    },
-                    "WORKSTATION IN PS/2 KEYBOARD": {
+                        "point": 41
+                    }
+                }
+            },
+            "19.LEFT": {
+                "column": 0,
+                "point": 40,
+                "childs": {
+                    "ENGINE [AUXILIARY  ETHERNET] # ACT/LINK A": {
+                        "column": 0,
+                        "point": 41
+                    }
+                }
+            },
+            "11.RIGHT": {
+                "column": 0,
+                "point": 32,
+                "childs": {
+                    "ENGINE [AJA] OUT : 18.RIGHT": {
                         "column": 0,
                         "point": 39
                     },
-                    "WORKSTATION IN PS/2 MOUSE": {
+                    "ENGINE [AJA] OUT * 13.RIGHT": {
+                        "column": 0,
+                        "point": 34
+                    },
+                    "ENGINE [AJA] OUT * 12.RIGHT": {
+                        "column": 0,
+                        "point": 33
+                    },
+                    "ENGINE [AJA] OUT SDI4": {
+                        "column": 0,
+                        "point": 36
+                    },
+                    "ENGINE [AJA] OUT SDI3": {
+                        "column": 0,
+                        "point": 35
+                    },
+                    "ENGINE [AJA] OUT REF": {
                         "column": 0,
                         "point": 38
                     },
-                    "WORKSTATION IN AUDIO": {
+                    "ENGINE [AJA] OUT LTC": {
                         "column": 0,
                         "point": 37
                     }
                 }
             },
-            "2.RIGHT": {
+            "11.LEFT": {
                 "column": 0,
-                "point": 29,
+                "point": 32,
                 "childs": {
-                    "WORKSTATION [REAR USB] # 6": {
+                    "ENGINE [AJA] IN : 18.LEFT": {
+                        "column": 0,
+                        "point": 39
+                    },
+                    "ENGINE [AJA] IN * 15.LEFT": {
+                        "column": 0,
+                        "point": 36
+                    },
+                    "ENGINE [AJA] IN * 14.LEFT": {
                         "column": 0,
                         "point": 35
                     },
-                    "WORKSTATION [REAR USB] # 5": {
+                    "ENGINE [AJA] IN SDI2": {
                         "column": 0,
                         "point": 34
                     },
-                    "WORKSTATION [REAR USB] # 4": {
+                    "ENGINE [AJA] IN SDI1": {
                         "column": 0,
                         "point": 33
                     },
-                    "WORKSTATION [REAR USB] # 3": {
+                    "ENGINE [AJA] IN REF": {
                         "column": 0,
-                        "point": 32
+                        "point": 38
                     },
-                    "WORKSTATION [REAR USB] # 2": {
+                    "ENGINE [AJA] IN LTC": {
+                        "column": 0,
+                        "point": 37
+                    }
+                }
+            },
+            "7.RIGHT": {
+                "column": 0,
+                "point": 28,
+                "childs": {
+                    "ENGINE [NVIDIA DP] OUT 3": {
                         "column": 0,
                         "point": 31
                     },
-                    "WORKSTATION [REAR USB] # 1": {
+                    "ENGINE [NVIDIA DP] OUT 2": {
                         "column": 0,
                         "point": 30
+                    },
+                    "ENGINE [NVIDIA DP] OUT 1": {
+                        "column": 0,
+                        "point": 29
+                    }
+                }
+            },
+            "7.LEFT": {
+                "column": 0,
+                "point": 28
+            },
+            "2.RIGHT": {
+                "column": 0,
+                "point": 23,
+                "childs": {
+                    "ENGINE # POWER SUPPLY": {
+                        "column": 0,
+                        "point": 27
                     }
                 }
             },
             "2.LEFT": {
                 "column": 0,
-                "point": 29,
+                "point": 23,
                 "childs": {
-                    "WORKSTATION [FRONT] # MEMORY CARD READER": {
+                    "ENGINE IN : 6.LEFT": {
                         "column": 0,
-                        "point": 35
+                        "point": 27
                     },
-                    "WORKSTATION [FRONT] # USB 4": {
+                    "ENGINE # USB 2": {
                         "column": 0,
-                        "point": 34
+                        "point": 26
                     },
-                    "WORKSTATION [FRONT] # USB 3": {
+                    "ENGINE # USB 1": {
                         "column": 0,
-                        "point": 33
+                        "point": 25
                     },
-                    "WORKSTATION [FRONT] # USB 2": {
+                    "ENGINE # ETHERNET": {
                         "column": 0,
-                        "point": 32
-                    },
-                    "WORKSTATION [FRONT] # USB 1": {
-                        "column": 0,
-                        "point": 31
-                    },
-                    "WORKSTATION [FRONT] # AUDIO": {
-                        "column": 0,
-                        "point": 30
+                        "point": 24
                     }
                 }
             }
