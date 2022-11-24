@@ -1,0 +1,190 @@
+{
+    "MTX": {
+        "column": 1,
+        "point": 3
+    },
+    "PATCH PANEL": {
+        "column": 0,
+        "point": 49,
+        "childs": {
+            "2.RIGHT": {
+                "column": 0,
+                "point": 51
+            },
+            "2.LEFT": {
+                "column": 0,
+                "point": 51
+            }
+        }
+    },
+    "WORKSTATION": {
+        "column": 0,
+        "point": 3,
+        "childs": {
+            "9.RIGHT": {
+                "column": 0,
+                "point": 12
+            },
+            "9.LEFT": {
+                "column": 0,
+                "point": 12
+            },
+            "2.RIGHT": {
+                "column": 0,
+                "point": 5
+            },
+            "2.LEFT": {
+                "column": 0,
+                "point": 5
+            }
+        }
+    },
+    "ENGINE": {
+        "column": 0,
+        "point": 21,
+        "childs": {
+            "19.RIGHT": {
+                "column": 0,
+                "point": 40,
+                "childs": {
+                    "ENGINE [AUXILIARY  ETHERNET] # ACT/LINK B": {
+                        "column": 0,
+                        "point": 41
+                    }
+                }
+            },
+            "19.LEFT": {
+                "column": 0,
+                "point": 40,
+                "childs": {
+                    "ENGINE [AUXILIARY  ETHERNET] # ACT/LINK A": {
+                        "column": 0,
+                        "point": 41
+                    }
+                }
+            },
+            "11.RIGHT": {
+                "column": 0,
+                "point": 32,
+                "childs": {
+                    "ENGINE [AJA] OUT : 18.RIGHT": {
+                        "column": 0,
+                        "point": 39
+                    },
+                    "ENGINE [AJA] OUT * 13.RIGHT": {
+                        "column": 0,
+                        "point": 34
+                    },
+                    "ENGINE [AJA] OUT * 12.RIGHT": {
+                        "column": 0,
+                        "point": 33
+                    },
+                    "ENGINE [AJA] OUT SDI4": {
+                        "column": 0,
+                        "point": 36
+                    },
+                    "ENGINE [AJA] OUT SDI3": {
+                        "column": 0,
+                        "point": 35
+                    },
+                    "ENGINE [AJA] OUT REF": {
+                        "column": 0,
+                        "point": 38
+                    },
+                    "ENGINE [AJA] OUT LTC": {
+                        "column": 0,
+                        "point": 37
+                    }
+                }
+            },
+            "11.LEFT": {
+                "column": 0,
+                "point": 32,
+                "childs": {
+                    "ENGINE [AJA] IN : 18.LEFT": {
+                        "column": 0,
+                        "point": 39
+                    },
+                    "ENGINE [AJA] IN * 15.LEFT": {
+                        "column": 0,
+                        "point": 36
+                    },
+                    "ENGINE [AJA] IN * 14.LEFT": {
+                        "column": 0,
+                        "point": 35
+                    },
+                    "ENGINE [AJA] IN SDI2": {
+                        "column": 0,
+                        "point": 34
+                    },
+                    "ENGINE [AJA] IN SDI1": {
+                        "column": 0,
+                        "point": 33
+                    },
+                    "ENGINE [AJA] IN REF": {
+                        "column": 0,
+                        "point": 38
+                    },
+                    "ENGINE [AJA] IN LTC": {
+                        "column": 0,
+                        "point": 37
+                    }
+                }
+            },
+            "7.RIGHT": {
+                "column": 0,
+                "point": 28,
+                "childs": {
+                    "ENGINE [NVIDIA DP] OUT 3": {
+                        "column": 0,
+                        "point": 31
+                    },
+                    "ENGINE [NVIDIA DP] OUT 2": {
+                        "column": 0,
+                        "point": 30
+                    },
+                    "ENGINE [NVIDIA DP] OUT 1": {
+                        "column": 0,
+                        "point": 29
+                    }
+                }
+            },
+            "7.LEFT": {
+                "column": 0,
+                "point": 28
+            },
+            "2.RIGHT": {
+                "column": 0,
+                "point": 23,
+                "childs": {
+                    "ENGINE # POWER SUPPLY": {
+                        "column": 0,
+                        "point": 27
+                    }
+                }
+            },
+            "2.LEFT": {
+                "column": 0,
+                "point": 23,
+                "childs": {
+                    "ENGINE IN : 6.LEFT": {
+                        "column": 0,
+                        "point": 27
+                    },
+                    "ENGINE # USB 2": {
+                        "column": 0,
+                        "point": 26
+                    },
+                    "ENGINE # USB 1": {
+                        "column": 0,
+                        "point": 25
+                    },
+                    "ENGINE # ETHERNET": {
+                        "column": 0,
+                        "point": 24
+                    }
+                }
+            }
+        }
+    }
+}
