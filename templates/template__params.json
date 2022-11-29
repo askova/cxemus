@@ -2,7 +2,7 @@
     "--devices": "devices.xlsx",
     "--devices__sheets": ["MTX", "ENGINE1", "PP"],
     "--devices__min_width": 300,
-    "--devices__coordinates": "scheme_proxy.100.svg.coordinates.json",
+    "--devices__coordinates": "scheme_proxy.100.ai.coordinates.json",
 
     "--cables": "cables.xlsx",
     "--cables__sheets": ["2022"],
