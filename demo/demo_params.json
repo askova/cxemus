@@ -2,7 +2,7 @@
     "--devices": "demo_devices.xlsx",
     "--devices__sheets": ["MTX", "ENGINE", "PATCH PANEL", "WORKSTATION"],
     "devices__min_width": 300,
-    "devices__coordinates": "demo_coordinates.json",
+    "--devices__coordinates": "demo_coordinates.json",
     "--cables": "demo_cables.csv",
     "--connections": "demo_connections.xlsx",
     "--connections__sheets": ["now"],
