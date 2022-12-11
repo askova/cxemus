@@ -4,11 +4,9 @@
     "devices__min_width": 300,
     "devices__coordinates": "demo_coordinates.json",
     "cables": "demo_cables.csv",
-    "connections": [
-        "demo_connections.xlsx",
-        "demo_connections_2.csv"
-    ],
+    "connections": "demo_connections.xlsx",
     "connections__sheets": ["now"],
+    "updates": ["demo_updates.csv"],
     "grid_width": 3,
     "grid_height": 2,
     "canvas_height": 450,
