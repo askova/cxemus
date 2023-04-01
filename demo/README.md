@@ -7,6 +7,7 @@
 * `devices` + `cables`
 * `devices` + `cables` + `connections`
 * `devices` + `cables` + `connections` + `updates`
+* `devices` + `cables` + `updates`
 * `devices` + `connections`
 * `devices` + `connections` + `updates`
 * `devices` + `updates`
