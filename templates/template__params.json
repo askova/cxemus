@@ -5,7 +5,7 @@
     "--devices__coordinates": "scheme_proxy.100.ai.coordinates.json",
 
     "--cables": "cables.xlsx",
-    "--cables__sheets": ["2022"],
+    "--cables__sheets": ["now"],
 
     "--connections": "connections.xlsx",
     "--connections__sheets": ["now"],
@@ -14,6 +14,7 @@
         "updates_20221030.csv",
         "updates_20221129.csv"
     ],
+    "--updates__sheets": ["2023"],
 
     "--grid_width": 12,
     "--grid_height": 5,
